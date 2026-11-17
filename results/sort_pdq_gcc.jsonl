@@ -1,0 +1,10 @@
+{"lang":"gcc","test":"sort","variant":"pdqsort","phase":"sort","ms":3780.157,"n":100000000,"checksum":3230735823556308707}
+{"lang":"gcc","test":"sort","variant":"pdqsort","phase":"sort","ms":3783.282,"n":100000000,"checksum":3230735823556308707}
+{"lang":"gcc","test":"sort","variant":"pdqsort","phase":"sort","ms":3808.110,"n":100000000,"checksum":3230735823556308707}
+{"lang":"gcc","test":"sort","variant":"pdqsort","phase":"sort","ms":3799.094,"n":100000000,"checksum":3230735823556308707}
+{"lang":"gcc","test":"sort","variant":"pdqsort","phase":"sort","ms":3786.396,"n":100000000,"checksum":3230735823556308707}
+{"lang":"gcc","test":"sort","variant":"pdqsort","phase":"sort","ms":3773.466,"n":100000000,"checksum":3230735823556308707}
+{"lang":"gcc","test":"sort","variant":"pdqsort","phase":"sort","ms":3797.864,"n":100000000,"checksum":3230735823556308707}
+{"lang":"gcc","test":"sort","variant":"pdqsort","phase":"sort","ms":3808.048,"n":100000000,"checksum":3230735823556308707}
+{"lang":"gcc","test":"sort","variant":"pdqsort","phase":"sort","ms":3797.231,"n":100000000,"checksum":3230735823556308707}
+{"lang":"gcc","test":"sort","variant":"pdqsort","phase":"sort","ms":3789.660,"n":100000000,"checksum":3230735823556308707}

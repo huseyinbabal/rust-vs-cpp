@@ -1,0 +1,10 @@
+871375 calls to allocation functions with 48.80M peak consumption from
+3 calls to allocation functions with 3.15M peak consumption from
+2 calls to allocation functions with 0B peak consumption from
+1 calls to allocation functions with 7.22M peak consumption from
+1 calls to allocation functions with 0B peak consumption from
+1 calls to allocation functions with 73.73K peak consumption from
+1 calls to allocation functions with 0B peak consumption from
+total runtime: 6.63s.
+calls to allocation functions: 871384 (131410/s)
+peak heap memory consumption: 59.24M

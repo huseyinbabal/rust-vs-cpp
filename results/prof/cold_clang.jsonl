@@ -1,0 +1,3 @@
+{"lang":"clang","test":"wc_stream","variant":"fast","phase":"count","ms":6162.145,"unique":871375,"words":61227995,"checksum":9388216587286435228}
+{"lang":"clang","test":"wc_stream","variant":"fast","phase":"count","ms":6247.427,"unique":871375,"words":61227995,"checksum":9388216587286435228}
+{"lang":"clang","test":"wc_stream","variant":"fast","phase":"count","ms":6240.420,"unique":871375,"words":61227995,"checksum":9388216587286435228}

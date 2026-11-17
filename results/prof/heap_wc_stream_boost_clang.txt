@@ -1,0 +1,2 @@
+calls to allocation functions: 9 (3/s)
+peak heap memory consumption: 83.96M

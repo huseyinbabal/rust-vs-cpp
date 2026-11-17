@@ -1,0 +1,4 @@
+rust/target/
+cpp/build/
+data/*.txt
+data/*.bin

@@ -1,0 +1,10 @@
+# started on Mon Nov 16 21:55:26 2026
+
+9615669469,,cycles,2964778143,100.00,,
+7504940968,,instructions,2964778143,100.00,,
+5503628,,branch-misses,2964778143,100.00,,
+238965785,,cache-references,2964778143,100.00,,
+77078081,,cache-misses,2964778143,100.00,,
+348750136,,L1-dcache-load-misses,2964778143,100.00,,
+<not supported>,,LLC-load-misses,0,100.00,,
+920605,,page-faults,2964778143,100.00,,

@@ -1,0 +1,15 @@
+wc_load_std_rust 528584
+wc_load_std_clang 544248
+wc_load_fast_rust 515360
+wc_load_fast_clang 539896
+wc_load_swiss_clang 517820
+intmap10000000_std_rust 3127056
+intmap10000000_std_clang 1974080
+intmap10000000_fast_rust 3127112
+intmap10000000_fast_clang 2130528
+intmap10000000_swiss_clang 1984872
+intmap100000000_std_rust 4907256
+intmap100000000_std_clang 5484768
+intmap100000000_fast_rust 4907220
+intmap100000000_fast_clang 7047164
+intmap100000000_swiss_clang 4909516

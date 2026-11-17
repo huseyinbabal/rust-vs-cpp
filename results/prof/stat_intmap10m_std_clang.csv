@@ -1,0 +1,10 @@
+# started on Mon Nov 16 21:55:18 2026
+
+25923049753,,cycles,7989328682,100.00,,
+8774297976,,instructions,7989328682,100.00,,
+30500406,,branch-misses,7989328682,100.00,,
+387311891,,cache-references,7989328682,100.00,,
+207332557,,cache-misses,7989328682,100.00,,
+655807230,,L1-dcache-load-misses,7989328682,100.00,,
+<not supported>,,LLC-load-misses,0,100.00,,
+515512,,page-faults,7989328682,100.00,,

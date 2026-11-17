@@ -1,0 +1,6 @@
+rustc 1.100.0 (0ef1bc386 2026-11-09)
+LLVM version: 23.1.5
+Ubuntu clang version 23.1.6 (++20261116013916+5b10d2d74929-1~exp1~20261116133927.96)
+g++-16 (Ubuntu 16-20260322-1ubuntu1) 16.0.1 20260322 (experimental) [trunk r16-8246-g569ace1fa50]
+abseil 20260817.0
+boost boost-1.92.0

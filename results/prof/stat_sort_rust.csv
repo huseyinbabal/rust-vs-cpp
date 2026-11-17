@@ -1,0 +1,10 @@
+# started on Mon Nov 16 21:55:32 2026
+
+11367918434,,cycles,3506356502,100.00,,
+26693455927,,instructions,3506356502,100.00,,
+45737046,,branch-misses,3506356502,100.00,,
+269349790,,cache-references,3506356502,100.00,,
+49981531,,cache-misses,3506356502,100.00,,
+358169215,,L1-dcache-load-misses,3506356502,100.00,,
+<not supported>,,LLC-load-misses,0,100.00,,
+390707,,page-faults,3506356502,100.00,,

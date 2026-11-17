@@ -1,0 +1,10 @@
+# started on Mon Nov 16 21:54:35 2026
+
+11869039646,,cycles,3657340212,100.00,,
+11810603097,,instructions,3657340212,100.00,,
+67532596,,branch-misses,3657340212,100.00,,
+121874598,,cache-references,3657340212,100.00,,
+38484389,,cache-misses,3657340212,100.00,,
+276582822,,L1-dcache-load-misses,3657340212,100.00,,
+<not supported>,,LLC-load-misses,0,100.00,,
+128373,,page-faults,3657340212,100.00,,
