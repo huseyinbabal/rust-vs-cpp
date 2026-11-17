@@ -1,5 +1,7 @@
 # Rust vs C++: same programs, same machine
 
+> Moved: this comparison now lives in [huseyinbabal/programming-language-wars/rust-vs-cpp](https://github.com/huseyinbabal/programming-language-wars/tree/main/rust-vs-cpp). This repo is archived.
+
 The same four programs written in Rust and in C++, built with the same LLVM version, run on one 16-core DigitalOcean server.
 Every program reads its input from a file outside the timed region and prints a checksum; a run only counts if Rust, Clang and GCC
 builds print the same checksum. No async anywhere: parallel code uses plain operating system threads (Rayon / OpenMP).
